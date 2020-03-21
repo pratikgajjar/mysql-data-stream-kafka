@@ -1,4 +1,4 @@
-# aws-stream
+# mysql to kafka data stream
 
 Mysql BIN log streamer.
 
