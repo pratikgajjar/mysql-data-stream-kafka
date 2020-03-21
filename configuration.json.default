@@ -1,0 +1,18 @@
+{
+  "kafka_brokers": [
+    "a",
+    "b"
+  ],
+  "mysql_config": {
+    "host": "",
+    "port": 3306,
+    "user": "",
+    "passwd": ""
+  },
+  "whitelist_db_stream": {
+    "truebil": [
+      "users",
+      "buyers"
+    ]
+  }
+}
